@@ -10,8 +10,11 @@ from django.apps import AppConfig
 #   2020.01.07.AfterGenericViews 
 #   Removed specific view definitions and replaced with generic views provided by Django.
 #
-#   2020.01.25.100
+#   2021.01.25.100
 #   Finished part five of tutorial.  https://docs.djangoproject.com/en/3.1/intro/tutorial05/
+#
+#   2021.01.27.100
+#   Finished part sixe and seven of tutortial.  https://docs.djangoproject.com/en/3.1/intro/tutorial07/
 #
 
 class PollsConfig(AppConfig):
